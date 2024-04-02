@@ -10,6 +10,8 @@ Para isso, utilizou-se algumas das mais recentes Inteligências Artificiais (IAs
 
 O projeto utilizou-se de diversos recursos da programação, como Spring boot, Java, Javascript, SQL, HTML, CSS, dentre outros, logo forneceu uma experiência de imersão para estudantes de todos os níveis que desejam conhecer mais sobre desenvolvimento back-end, front-end, web e as possibilidades que existem dentro dessas áreas.
 
+Link do repositório original > https://github.com/digitalinnovationone/santander-dev-week-2024.git
+
 
 
 
