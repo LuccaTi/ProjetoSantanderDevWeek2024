@@ -6,7 +6,7 @@ O projeto foi a criação de uma REST API que simulava uma conversa entre o usu�
 
 ## Getting Started: 🛠️
 
-O projeto utilizou-se de diversos recursos da programação, como Spring boot framework, Java, Javascript, SQL, HTML, CSS, OpenAI e Gemini, sendo necessário instalar os softwares e criar chaves (keys) que permitiam a utlização das inteligências artificiais.
+O projeto utilizou-se de diversos recursos da programação, como Spring boot framework, Java, Javascript, SQL, HTML, CSS, OpenAI e Gemini, sendo necessário instalar os softwares e criar chaves (keys) que permitiam a utilização das inteligências artificiais.
 
 ## Usage: 📝
 
